@@ -1,0 +1,17 @@
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Labs_2_2.exe
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Labs_2_2.deps.json
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Labs_2_2.runtimeconfig.json
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Labs_2_2.dll
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Labs_2_2.pdb
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.AssemblyInfoInputs.cache
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.AssemblyInfo.cs
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.csproj.CoreCompileInputs.cache
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.dll
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\refint\Labs_2_2.dll
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.pdb
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.genruntimeconfig.cache
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\ref\Labs_2_2.dll
+E:\DevLabs\Labs_2_2\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.csproj.AssemblyReference.cache
+E:\DevLabs\Labs_2_2\obj\Debug\net6.0\Labs_2_2.csproj.CopyComplete
