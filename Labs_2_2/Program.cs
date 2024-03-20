@@ -17,6 +17,7 @@
             Console.WriteLine("nonincreasing " + seq.NonIncrease());
             Console.WriteLine("arithmetic progression " + seq.ArithmeticProgression());
             Console.WriteLine("geometric progression " + seq.GeometricProgression());
+            Console.WriteLine("equal: " + seq.Equal(seq2));
             Console.WriteLine("contain 4 " + seq.Contain(4));
             Console.WriteLine("max " + seq.Maximum());
             Console.WriteLine("min " + seq.Minimum());
