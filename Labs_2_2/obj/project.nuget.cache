@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HFS5KUZc8L+/qzfIzJui6EQKGIYTxEnTKWlkEwgKHP/9MQ8FXhnxS2Vmys5XDCIpI5dzHhdN6E8y8v1pYgBVxA==",
+  "dgSpecHash": "5Uz582d+SK+Ht1aQvrPMQ3NHGcGi5W0zlqamIG74pb6MULmgA+vw1eFDTuHFRuXzAVaKWHNT5vdnaBAg7OMt0w==",
   "success": true,
-  "projectFilePath": "E:\\DevLabs\\Labs_2_2\\Labs_2_2.csproj",
+  "projectFilePath": "E:\\DevLabs\\Git\\Practice\\Labs_2_2\\Labs_2_2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

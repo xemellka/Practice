@@ -61,11 +61,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevLabs\\Labs_2_2\\Labs_2_2.csproj",
+      "projectUniqueName": "E:\\DevLabs\\Git\\Practice\\Labs_2_2\\Labs_2_2.csproj",
       "projectName": "Labs_2_2",
-      "projectPath": "E:\\DevLabs\\Labs_2_2\\Labs_2_2.csproj",
+      "projectPath": "E:\\DevLabs\\Git\\Practice\\Labs_2_2\\Labs_2_2.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "E:\\DevLabs\\Labs_2_2\\obj\\",
+      "outputPath": "E:\\DevLabs\\Git\\Practice\\Labs_2_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Microsoft Visual Studio1\\Shared\\NuGetPackages"
