@@ -1,0 +1,17 @@
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Labs_2_4_22.exe
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Labs_2_4_22.deps.json
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Labs_2_4_22.runtimeconfig.json
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Labs_2_4_22.dll
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Labs_2_4_22.pdb
+E:\DevLabs\Labs_2_4_22\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.csproj.AssemblyReference.cache
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.AssemblyInfoInputs.cache
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.AssemblyInfo.cs
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.csproj.CoreCompileInputs.cache
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.csproj.CopyComplete
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.dll
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\refint\Labs_2_4_22.dll
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.pdb
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\Labs_2_4_22.genruntimeconfig.cache
+E:\DevLabs\Labs_2_4_22\obj\Debug\net6.0\ref\Labs_2_4_22.dll
