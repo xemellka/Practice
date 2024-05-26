@@ -13,7 +13,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 
 public class SpotifyBot
 {
-    private static readonly string TelegramBotToken = "7166757164:AAFHVOd-0kxhzKle2eOgljwdaYUXP_Hkf1Y";
+    private static readonly string TelegramBotToken = "";
     private static readonly string Endpoint = "https://localhost:7099/SpotifyAuth";
     private static readonly HttpClient HttpClient = new HttpClient();
     private static readonly TelegramBotClient Bot = new TelegramBotClient(TelegramBotToken);
