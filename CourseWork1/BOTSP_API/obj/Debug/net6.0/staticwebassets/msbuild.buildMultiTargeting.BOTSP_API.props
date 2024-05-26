@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BOTSP_API.props" />
+</Project>
