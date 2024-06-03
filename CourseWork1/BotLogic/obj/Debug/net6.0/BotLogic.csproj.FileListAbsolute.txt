@@ -50,9 +50,9 @@ E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.GeneratedMSBuildEditorConfig.edito
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.AssemblyInfoInputs.cache
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.AssemblyInfo.cs
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.csproj.CoreCompileInputs.cache
-E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.csproj.CopyComplete
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.dll
 E:\DevLabs\BotLogic\obj\Debug\net6.0\refint\BotLogic.dll
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.pdb
 E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.genruntimeconfig.cache
 E:\DevLabs\BotLogic\obj\Debug\net6.0\ref\BotLogic.dll
+E:\DevLabs\BotLogic\obj\Debug\net6.0\BotLogic.csproj.Up2Date

@@ -235,18 +235,107 @@ namespace YourNamespace.Controllers
                 return StatusCode((int)response.StatusCode, errorString);
             }
         }
+        [HttpPost("nextTrack")]
+        public async Task<IActionResult> NextTrack([FromQuery] string accessToken)
+        {
+            if (string.IsNullOrEmpty(accessToken))
+            {
+                return BadRequest(new { error = "access_token_missing" });
+            }
 
-        public class PlaylistDetails
+            string url = "https://api.spotify.com/v1/me/player/next";
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+
+            var response = await client.PostAsync(url, null);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return Ok();
+            }
+            else
+            {
+                var errorString = await response.Content.ReadAsStringAsync();
+                return StatusCode((int)response.StatusCode, errorString);
+            }
+        }
+        [HttpPost("previousTrack")]
+        public async Task<IActionResult> PreviousTrack([FromQuery] string accessToken)
+        {
+            if (string.IsNullOrEmpty(accessToken))
+            {
+                return BadRequest(new { error = "access_token_missing" });
+            }
+
+            string url = "https://api.spotify.com/v1/me/player/previous";
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+
+            var response = await client.PostAsync(url, null);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return Ok();
+            }
+            else
+            {
+                var errorString = await response.Content.ReadAsStringAsync();
+                return StatusCode((int)response.StatusCode, errorString);
+            }
+        }
+
+        [HttpPut("play")]
+        public async Task<IActionResult> PlayTrack([FromQuery] string accessToken)
+        {
+            if (string.IsNullOrEmpty(accessToken))
+            {
+                return BadRequest(new { error = "access_token_missing" });
+            }
+
+            string url = "https://api.spotify.com/v1/me/player/play";
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+
+            var response = await client.PutAsync(url, null);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return Ok();
+            }
+            else
+            {
+                var errorString = await response.Content.ReadAsStringAsync();
+                return StatusCode((int)response.StatusCode, errorString);
+            }
+        }
+
+        [HttpPut("pause")]
+        public async Task<IActionResult> PauseTrack([FromQuery] string accessToken)
+        {
+            if (string.IsNullOrEmpty(accessToken))
+            {
+                return BadRequest(new { error = "access_token_missing" });
+            }
+
+            string url = "https://api.spotify.com/v1/me/player/pause";
+            client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+
+            var response = await client.PutAsync(url, null);
+
+            if (response.IsSuccessStatusCode)
+            {
+                return Ok();
+            }
+            else
+            {
+                var errorString = await response.Content.ReadAsStringAsync();
+                return StatusCode((int)response.StatusCode, errorString);
+            }
+        }
+
+public class PlaylistDetails
         {
             public string Name { get; set; }
             public string Description { get; set; }
             public bool IsPublic { get; set; }
         }
-
-
-
-
-
 
     }
 
